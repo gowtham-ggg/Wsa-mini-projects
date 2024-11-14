@@ -1,6 +1,5 @@
-import "./components/practiceTodo/Main"
-import Main from "./components/ToDo/Main"
 
+import Main from "./components/ToDo/Main";
 
 
 function App() {
@@ -8,7 +7,6 @@ function App() {
     <div id="container">
       <Main/>
     </div>
-  
 
   )
   
